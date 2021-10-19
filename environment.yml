@@ -13,14 +13,13 @@ dependencies:
   - keras-preprocessing
   - numpy
   - opt_einsum
+  - pip
   - protobuf
   - python-flatbuffers
   - python=3.8
   - scipy
   - shap
   - tensorboard
-  - tensorflow-estimator
-  - tensorflow
   - termcolor
   - typeguard
   - typing_extensions
