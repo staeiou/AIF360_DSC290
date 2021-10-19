@@ -1,5 +1,7 @@
 # AI Fairness 360 (AIF360)
 
+Launch mybinder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/staeiou/AIF360_DSC290/HEAD)
+
 ![Continuous Integration](https://github.com/Trusted-AI/AIF360/workflows/Continuous%20Integration/badge.svg)
 [![Documentation](https://readthedocs.org/projects/aif360/badge/?version=latest)](http://aif360.readthedocs.io/en/latest/?badge=latest)
 [![PyPI version](https://badge.fury.io/py/aif360.svg)](https://badge.fury.io/py/aif360)
