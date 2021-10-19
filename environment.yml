@@ -17,18 +17,19 @@ dependencies:
   - python-flatbuffers
   - python=3.8
   - scipy
+  - shap
   - tensorboard
   - tensorflow-estimator
+  - tensorflow
   - termcolor
   - typeguard
   - typing_extensions
   - wheel
   - wrapt
   - pip:
-      - 'aif360[all]'
+      - aif360
       - adversarial-robustness-toolbox>=1.0.0
       - BlackBoxAuditing
-      - tensorflow
       - cvxpy>=1.0
       - fairlearn==0.4.6
       - tempeh
