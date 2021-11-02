@@ -4,6 +4,9 @@ channels:
 dependencies:
   - absl-py
   - astunparse
+  - python-chromedriver-binary 
+  - selenium-chromedriver
+  - chromium
   - gast
   - google-pasta
   - grpcio
@@ -22,6 +25,7 @@ dependencies:
   - tensorflow
   - termcolor
   - typeguard
+  - npm
   - typing_extensions
   - wheel
   - wrapt
@@ -37,4 +41,6 @@ dependencies:
       - pytest>=3.5.0
       - pandas
       - seaborn
+      - selenium
+      - selenium-stealth
       - lime
