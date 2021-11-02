@@ -5,7 +5,6 @@ dependencies:
   - absl-py
   - astunparse
   - python-chromedriver-binary 
-  - chromium
   - gast
   - google-pasta
   - grpcio
