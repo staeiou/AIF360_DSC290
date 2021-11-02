@@ -5,7 +5,6 @@ dependencies:
   - absl-py
   - astunparse
   - python-chromedriver-binary 
-  - selenium-chromedriver
   - chromium
   - gast
   - google-pasta
@@ -28,6 +27,7 @@ dependencies:
   - npm
   - typing_extensions
   - wheel
+  - pip
   - wrapt
   - pip:
       - aif360
