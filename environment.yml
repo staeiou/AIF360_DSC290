@@ -23,7 +23,7 @@ dependencies:
   - tensorflow
   - termcolor
   - typeguard
-  - npm
+  - nodejs
   - typing_extensions
   - wheel
   - pip
@@ -43,3 +43,4 @@ dependencies:
       - selenium
       - selenium-stealth
       - lime
+      - webdrivermanager
